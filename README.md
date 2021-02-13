@@ -17,4 +17,4 @@ In this project we created a website to search images. We used unsplash API to f
 
 # API
 
-Please see Unsplash's API documentation for details to understand proprties and their values.
+Please see Unsplash's API documentation for details to understand response proprties and their values.
