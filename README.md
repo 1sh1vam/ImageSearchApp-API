@@ -12,6 +12,7 @@ In this project we created a website to search images. We used unsplash API to f
 * JavaScript DOM
 * JavaScrpit fetch, async and await
 * API fetch
+* Flexbox
 
 
 # Layout:
