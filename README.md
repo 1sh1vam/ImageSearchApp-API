@@ -7,7 +7,6 @@ In this project we created a website to search images. We used unsplash API to f
 # Tools Used:
 
 * JavaScript
-* HTML
 * CSS
 * JavaScript DOM
 * JavaScrpit fetch, async and await
